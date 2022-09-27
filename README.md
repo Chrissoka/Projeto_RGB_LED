@@ -1,5 +1,5 @@
 # Projeto_RGB_LED
-Meu primeiro projeto do tinkercard
+**Meu primeiro projeto do tinkercard**
 
 ## IMAGEM DO CIRCUITO
 ![projeto_rgb_led_imagem](https://user-images.githubusercontent.com/90460886/192655961-8614c750-39ee-4408-9e8d-9b4f15d0f43e.png)
